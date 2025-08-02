@@ -10,4 +10,4 @@ wikipedia
 typing
 pydantic
 dotenv
-
+chromadb
